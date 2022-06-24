@@ -4,7 +4,16 @@
 
 
 ### Hello world! <img src="https://github.com/JoaVirtudes19/JoaVirtudes19/blob/main/Hi.gif" width="50">
-My name is José Joaquín Virtudes Castro and I'm a Computer Science student at University of Seville. I'm focused in Machine Learning and Software development but also love developing any kind of web/mobile app (frontend/backend).
+My name is José Joaquín Virtudes Castro and I'm a Computer Science student at University of Seville. I'm focused in Machine Learning and Software development, I love developing any kind of web/mobile app (Django/Flutter).
+ 
+ ### Languages and technologies
+    
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=33b0ad)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=33b0ad)
+![](https://img.shields.io/badge/Code-Django-informational?style=flat&logo=django&logoColor=white&color=33b0ad)
+
+
+    
 
 <!--
 **JoaVirtudes19/JoaVirtudes19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
