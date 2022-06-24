@@ -1,8 +1,9 @@
-[![](https://raw.githubusercontent.com/adamalston/adamalston/master/profile.gif)](https://www.adamalston.com/)
+<p align="center">
+  <a href="https://www.virtudescastro.es"> <img src="https://github.com/JoaVirtudes19/JoaVirtudes19/blob/main/topName.gif" alt="animated"/> <\a>
+</p>
 
-<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="100">
 
-### Hello world!
+### Hello world! <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="50">
 My name is José Joaquín Virtudes Castro and I'm a Computer Science student at University of Seville. I'm focused in Machine Learning and Software development but also love developing any kind of web/mobile app (frontend/backend).
 
 <!--
