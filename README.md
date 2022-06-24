@@ -36,4 +36,4 @@ My name is José Joaquín Virtudes Castro and I'm a Computer Science student at 
 # Info
 - 💬 📫 How to reach me: josejoaquin@virtudescastro.es / josejoaquinvirtudes@gmail.com
 - ☁ My Website: https://www.virtudescastro.es
-   
+- Linkedin: www.linkedin.com/in/josejoaquinvirtudescastro
