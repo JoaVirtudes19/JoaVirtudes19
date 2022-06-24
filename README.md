@@ -1,4 +1,6 @@
-### Hi there 👋
+<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif">
+
+### Hello world!
 
 <!--
 **JoaVirtudes19/JoaVirtudes19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
