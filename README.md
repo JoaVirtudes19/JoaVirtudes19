@@ -25,6 +25,15 @@ My name is José Joaquín Virtudes Castro and I'm a Computer Science student at 
 ![](https://img.shields.io/badge/Tools-Scikit_learn-informational?style=flat&logo=scikitlearn&logoColor=white&color=33b0ad)
     
 # Some projects
+ ##### Project's skills 
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=33b0ad)
+![](https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=django&logoColor=white&color=33b0ad)
+
+
+<a href="https://github.com/JoaVirtudes19/ALLGAMESAII-Django-WebScraping-IR">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaVirtudes19&repo=ALLGAMESAII-Django-WebScraping-IR&title_color=ffffff&text_color=c9cacc&icon_color=33b0ad&bg_color=1d1f21" />
+</a>
+    
 ##### Project's skills 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=33b0ad)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=33b0ad)
