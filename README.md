@@ -4,7 +4,9 @@
 
 
 # Hello world! <img src="https://github.com/JoaVirtudes19/JoaVirtudes19/blob/main/Hi.gif" width="50">
-My name is José Joaquín Virtudes Castro and I'm a Computer Science student at University of Seville. I'm focused in Machine Learning (Data Science) and Software development, I love developing any kind of web/mobile app (Django/Flutter).
+My name is José Joaquín Virtudes Castro and I'm a Computer Science student at University of Seville. Actually I have finished my thrid degree's course accumulating 12 Honour's mentions. I’m currently focusing in Machine Learning (Data Science) and Software development, I love developing any kind of web/mobile app (Django/Flutter).
+    
+ ⚠️ Now I'm looking for internships #OpenToWork 📩
  
  # Languages and technologies
     
@@ -30,19 +32,8 @@ My name is José Joaquín Virtudes Castro and I'm a Computer Science student at 
 <a href="https://github.com/JoaVirtudes19/OdooTelegram">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaVirtudes19&repo=OdooTelegram&title_color=ffffff&text_color=c9cacc&icon_color=33b0ad&bg_color=1d1f21" />
 </a>
-
-
-<!--
-**JoaVirtudes19/JoaVirtudes19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    
+# Info
+- 💬 📫 How to reach me: josejoaquin@virtudescastro.es / josejoaquinvirtudes@gmail.com
+- ☁ My Website: https://www.virtudescastro.es
+   
