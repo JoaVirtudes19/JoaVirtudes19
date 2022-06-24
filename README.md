@@ -1,6 +1,9 @@
-<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif">
+[![](https://raw.githubusercontent.com/adamalston/adamalston/master/profile.gif)](https://www.adamalston.com/)
+
+<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="100">
 
 ### Hello world!
+My name is José Joaquín Virtudes Castro and I'm a Computer Science student at University of Seville. I'm focused in Machine Learning and Software development but also love developing any kind of web/mobile app (frontend/backend).
 
 <!--
 **JoaVirtudes19/JoaVirtudes19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
