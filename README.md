@@ -4,7 +4,7 @@
 
 
 # Hello world! <img src="https://github.com/JoaVirtudes19/JoaVirtudes19/blob/main/Hi.gif" width="50">
-My name is José Joaquín Virtudes Castro and I'm a Computer Science student at University of Seville. Actually I have finished my thrid degree's course accumulating 12 Honour's mentions. I’m currently focusing in Software development and Machine Learning, I love developing any kind of web/mobile app (Django/Flutter).
+My name is José Joaquín Virtudes Castro and I'm a Computer Science student at University of Seville. Nowadays I have finished my thrid degree's course accumulating 12 Honour's mentions. I’m currently focusing in Software development and Machine Learning, I love developing any kind of web/mobile app (Django/Flutter).
     
  My main language is Python but I also love Java and Haskell.
     
