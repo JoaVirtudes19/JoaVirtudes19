@@ -8,8 +8,6 @@ Mi nombre es Jose Joaquín Virtudes Castro y soy estudiante sevillano en la Univ
 Actualmente he terminado mi tercer año de carrera, acumulando un total de 12 Matrículas de Honor. Estoy centrando mi carrera en Desarrollo Software y Machine Learning, me encanta desarrollar cualquier tipo de aplicación web/móvil (Django/Flutter).
 Llevo rodeado de ordenadores desde que tengo uso de razón, me manejo con cualquier sistema operativo, desde linux en mi primer ordenador a windows y macOS en mis ordenadores personales.
 Siempre tengo un proyecto entre manos durante mis vacaciones, ya que me encanta aprender nuevas tecnologías durante mi tiempo libre. Gracias este hambre por conocimiento he aprendido de forma autodidacta Django (conocimiento que reforzaría en la carrera), Flutter (Junto a dart) y Pandas (conocimiento también reforzado en la carrera)
-Mi página web: https://www.virtudescastro.es 
-GitHub: https://github.com/JoaVirtudes19
     
 Mi lenguaje de programación principal es Python, aunque tambien me encenta programar en Java y Haskell.
     
