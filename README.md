@@ -4,13 +4,18 @@
 
 
 # Hello world! <img src="https://github.com/JoaVirtudes19/JoaVirtudes19/blob/main/Hi.gif" width="50">
-My name is José Joaquín Virtudes Castro and I'm a Computer Science student at University of Seville. I got 12 Honour's mentions in my first three years. I’m currently focusing in Software development and Machine Learning, I love to develop any kind of web/mobile app (Django/Flutter).
+Mi nombre es Jose Joaquín Virtudes Castro y soy estudiante sevillano en la Universidad de Sevilla.
+Actualmente he terminado mi tercer año de carrera, acumulando un total de 12 Matrículas de Honor. Estoy centrando mi carrera en Desarrollo Software y Machine Learning, me encanta desarrollar cualquier tipo de aplicación web/móvil (Django/Flutter).
+Llevo rodeado de ordenadores desde que tengo uso de razón, me manejo con cualquier sistema operativo, desde linux en mi primer ordenador a windows y macOS en mis ordenadores personales.
+Siempre tengo un proyecto entre manos durante mis vacaciones, ya que me encanta aprender nuevas tecnologías durante mi tiempo libre. Gracias este hambre por conocimiento he aprendido de forma autodidacta Django (conocimiento que reforzaría en la carrera), Flutter (Junto a dart) y Pandas (conocimiento también reforzado en la carrera)
+Mi página web: https://www.virtudescastro.es 
+GitHub: https://github.com/JoaVirtudes19
     
- My main language is Python but I also love Java and Haskell.
+Mi lenguaje de programación principal es Python, aunque tambien me encenta programar en Java y Haskell.
     
- ⚠️ Now I'm looking for internships #OpenToWork 📩 (See Info)
+ ⚠️ Me encuentro buscando prácticas laborales #OpenToWork 📩 
  
- # Languages and technologies
+ # Lenguajes y tecnologías
     
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=33b0ad)
 ![](https://img.shields.io/badge/Code-Haskell-informational?style=flat&logo=haskell&logoColor=white&color=33b0ad)
@@ -27,7 +32,7 @@ My name is José Joaquín Virtudes Castro and I'm a Computer Science student at 
 ![](https://img.shields.io/badge/Tools-Tensorflow-informational?style=flat&logo=tensorflow&logoColor=white&color=33b0ad)
 ![](https://img.shields.io/badge/Tools-Scikit_learn-informational?style=flat&logo=scikitlearn&logoColor=white&color=33b0ad)
     
-# Some projects
+# Algunos proyectos
  ##### Project's skills 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=33b0ad)
 ![](https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=django&logoColor=white&color=33b0ad)
@@ -53,6 +58,6 @@ My name is José Joaquín Virtudes Castro and I'm a Computer Science student at 
 </a>
     
 # Info
-- 💬 📫 How to reach me: josejoaquin@virtudescastro.es / josejoaquinvirtudes@gmail.com
-- ☁ My Website: https://www.virtudescastro.es
+- 💬 📫 Mail: josejoaquin@virtudescastro.es / josejoaquinvirtudes@gmail.com
+- ☁ Mi página web: https://www.virtudescastro.es
 - Linkedin: www.linkedin.com/in/josejoaquinvirtudescastro
