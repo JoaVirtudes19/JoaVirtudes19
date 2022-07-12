@@ -41,6 +41,13 @@ Mi lenguaje de programación principal es Python, aunque tambien me encenta prog
 </a>
 
  ##### Project's skills 
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=33b0ad)
+
+<a href="https://github.com/JoaVirtudes19/SnakeChallenge">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaVirtudes19&repo=SnakeChallenge&title_color=ffffff&text_color=c9cacc&icon_color=33b0ad&bg_color=1d1f21" />
+</a>
+
+ ##### Project's skills 
 ![](https://img.shields.io/badge/Code-Haskell-informational?style=flat&logo=haskell&logoColor=white&color=33b0ad)
 
 <a href="https://github.com/JoaVirtudes19/Genetic-Algorithm-Haskell">
