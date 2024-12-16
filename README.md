@@ -1,5 +1,5 @@
 # Hola mundo! <img src="https://github.com/JoaVirtudes19/JoaVirtudes19/blob/main/Hi.gif" width="50">
-Mi nombre es José Joaquín Virtudes Castro tengo 23 años y soy de Sevilla. Actualmente soy Cientítico de Datos, me gradué en Ingeniería Informática en la Universidad de Sevilla, donde obtuve un expediente con 14 matrículas de honor a lo largo de mi trayectoria académica. Actualmente me encuentro cursando el Máster Universitario en Desarrollo y Operaciones (DevOps) en la UNIR. Me considero una persona autodidacta, en mi tiempo libre suelo explorar nuevas tecnologías y "trastear" con ellas. Gracias a esto, he aprendido tecnologías que me han ayudado en el desarrollo de mi carrera.
+Mi nombre es José Joaquín Virtudes Castro tengo 23 años y soy de Sevilla. Actualmente soy Ingeniero de Software, me gradué en Ingeniería Informática en la Universidad de Sevilla, donde obtuve un expediente con 14 matrículas de honor a lo largo de mi trayectoria académica. Actualmente me encuentro cursando el Máster Universitario en Desarrollo y Operaciones (DevOps) en la UNIR. Me considero una persona autodidacta, en mi tiempo libre suelo explorar nuevas tecnologías y "trastear" con ellas. Gracias a esto, he aprendido tecnologías que me han ayudado en el desarrollo de mi carrera.
 
     
 # Algunos proyectos personales
