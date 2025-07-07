@@ -1,6 +1,6 @@
 # <img src="https://github.com/JoaVirtudes19/JoaVirtudes19/blob/main/Hi.gif" width="50"> Hello World! I'm José Joaquín Virtudes Castro  
 
-🎓 I'm a **Software Engineer** from Seville, Spain. I hold a degree in Computer Engineering from the University of Seville, where I earned **14 honors distinctions** 🏅, and a Master’s in **Development and Operations (DevOps)** from UNIR.
+🎓 I'm a **Software Engineer** from Seville, Spain. I hold a degree in Computer Engineering from the University of Seville — where I graduated as the **top student in my class**, earning **14 honors distinctions** 🏅. I also completed a Master’s in **Development and Operations (DevOps)** from UNIR.
 
 🧠 I'm a self-taught tech enthusiast who enjoys exploring and tinkering with new technologies in my free time. I love building custom automations using Linux, Docker, and Home Assistant 🏠.
 I also like to experiment with my own local Kubernetes cluster 📡, where I learn, test, and break things to deepen my understanding of cloud-native technologies.
