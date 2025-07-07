@@ -19,9 +19,8 @@ I also like to experiment with my own local Kubernetes cluster 📡, where I lea
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
-# Info
-- 💬 📫 Mail: josejoaquinvirtudes@gmail.com
-- Linkedin: www.linkedin.com/in/josejoaquinvirtudescastro
+# 🌐 Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/josejoaquinvirtudescastro/) 
 
 # Memes
 ![1_aHIbpFbKTifJ_CCUhfX1RA](https://github.com/user-attachments/assets/f5295e69-7f79-4c28-a290-0bbb2e0c45d1)
