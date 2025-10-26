@@ -1,6 +1,6 @@
 # <img src="https://github.com/JoaVirtudes19/JoaVirtudes19/blob/main/Hi.gif" width="50"> Hello World! I'm José Joaquín Virtudes Castro  
 
-🎓 I'm a **Data Platform Engineer** from Seville, Spain. I graduated with **14 honors distinctions** 🏅 and received the **Prize for Best Academic Record**.
+**Data Platform Engineer** — Graduated with **14 honors distinctions** 🏅 and awarded the Best Academic Record Prize.
 
 # 💻 Tech Stack
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) 
