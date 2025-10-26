@@ -1,6 +1,6 @@
 # <img src="https://github.com/JoaVirtudes19/JoaVirtudes19/blob/main/Hi.gif" width="50"> Hello World! I'm José Joaquín Virtudes Castro  
 
-**Data Platform Engineer** — Graduated with **14 honors distinctions** 🏅 and awarded the Best Academic Record Prize.
+**Data Platform Engineer** — Awarded the Best Academic Record 🏅 | Apache Airflow | Kubernetes | Open Source Contributor
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)&nbsp;
 ![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-017CEE?style=flat&logo=Apache%20Airflow&logoColor=white)&nbsp;
