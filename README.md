@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=8957E5&center=true&vCenter=true&width=600&lines=Pipelines+%E2%86%92+Python;Clusters+%E2%86%92+Kubernetes+%2B+Argo+CD;Builds+%E2%86%92+Woodpecker+CI;Based+in+Sevilla%2C+Spain+%F0%9F%87%AA%F0%9F%87%B8" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=8957E5&center=true&vCenter=true&width=600&lines=Clusters+%E2%86%92+Kubernetes+%2B+Argo+CD;Builds+%E2%86%92+Jenkins;Based+in+Sevilla%2C+Spain+%F0%9F%87%AA%F0%9F%87%B8" alt="Typing SVG"/>
 
 <a href="https://virtudes.dev"><img src="https://img.shields.io/badge/virtudes.dev-8957e5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
 
