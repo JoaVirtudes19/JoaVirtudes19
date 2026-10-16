@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="460" viewBox="0 0 960 460" font-family="Segoe UI,Helvetica,Arial,sans-serif">
+<defs>
+<linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#1f6feb"/><stop offset="1" stop-color="#8957e5"/></linearGradient>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0d1b3e"/><stop offset="1" stop-color="#1e1036"/></linearGradient>
+<filter id="glow"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<style>
+.box{fill:#161b22;stroke:url(#g);stroke-width:2}
+.t{fill:#e6edf3;font-size:14px;font-weight:600}
+.s{fill:#8b949e;font-size:11.5px}
+.ln{fill:none;stroke:#30363d;stroke-width:2.5}
+.flow{fill:none;stroke:url(#g);stroke-width:2.5;stroke-dasharray:6 10;animation:dash 1.2s linear infinite}
+@keyframes dash{to{stroke-dashoffset:-32}}
+.app{fill:#0d1117;stroke:#8957e5;stroke-width:1.5;animation:pulse 3.5s ease-in-out infinite}
+@keyframes pulse{0%,100%{stroke:#8957e5;stroke-opacity:.5}50%{stroke:#58a6ff;stroke-opacity:1}}
+.spin{transform-origin:794px 75px;animation:spin 4s linear infinite}
+@keyframes spin{to{transform:rotate(360deg)}}
+</style>
+<rect width="960" height="460" rx="14" fill="url(#bg)"/>
+<text x="24" y="34" class="t" font-size="18" fill="#e6edf3">GitOps flow · homelab</text>
+
+<rect class="box" x="30" y="50" width="160" height="60" rx="10"/><text x="44" y="87" font-size="22">💻</text><text x="76" y="78" class="t">git push</text><text x="76" y="95" class="s">my repos</text>
+<rect class="box" x="215" y="50" width="160" height="60" rx="10"/><text x="229" y="87" font-size="22">🐦</text><text x="261" y="78" class="t">Woodpecker CI</text><text x="261" y="95" class="s">build &amp; test</text>
+<rect class="box" x="400" y="50" width="160" height="60" rx="10"/><text x="414" y="87" font-size="22">📦</text><text x="446" y="78" class="t">zot</text><text x="446" y="95" class="s">OCI registry</text>
+<rect class="box" x="585" y="50" width="160" height="60" rx="10"/><text x="599" y="87" font-size="22">📚</text><text x="631" y="78" class="t">my-home-charts</text><text x="631" y="95" class="s">Helm charts repo</text>
+<rect class="box" x="770" y="50" width="160" height="60" rx="10"/><text x="784" y="87" font-size="22">🐙</text><text x="816" y="78" class="t">Argo CD</text><text x="816" y="95" class="s">auto-sync</text>
+<circle class="spin" cx="794" cy="75" r="17" fill="none" stroke="#58a6ff" stroke-width="2" stroke-dasharray="8 6" opacity=".7"/>
+<rect x="30" y="175" width="900" height="190" rx="14" fill="#0d1117" fill-opacity=".6" stroke="url(#g)" stroke-width="2" stroke-dasharray="4 4"/><text x="48" y="203" class="t">☸️ Kubernetes cluster</text><text x="220" y="203" class="s">7 Argo CD Applications · prune + selfHeal</text>
+<rect class="app" style="animation-delay:0.0s" x="52" y="225" width="200" height="52" rx="9"/><text x="64" y="258" font-size="19">🏡</text><text x="96" y="250" class="t" font-size="14">home-assistant</text><text x="96" y="266" class="s">ns: home-assistant</text>
+<rect class="app" style="animation-delay:0.45s" x="270" y="225" width="200" height="52" rx="9"/><text x="282" y="258" font-size="19">🌐</text><text x="314" y="250" class="t" font-size="14">my-portfolio</text><text x="314" y="266" class="s">ns: my-portfolio · port 3000</text>
+<rect class="app" style="animation-delay:0.9s" x="488" y="225" width="200" height="52" rx="9"/><text x="500" y="258" font-size="19">✨</text><text x="532" y="250" class="t" font-size="14">personal apps</text><text x="532" y="266" class="s">self-hosted projects</text>
+<rect class="app" style="animation-delay:1.35s" x="706" y="225" width="200" height="52" rx="9"/><text x="718" y="258" font-size="19">🐦</text><text x="750" y="250" class="t" font-size="14">woodpecker</text><text x="750" y="266" class="s">ns: woodpecker</text>
+<rect class="app" style="animation-delay:1.8s" x="161.0" y="299" width="200" height="52" rx="9"/><text x="173.0" y="332" font-size="19">📦</text><text x="205.0" y="324" class="t" font-size="14">zot</text><text x="205.0" y="340" class="s">ns: zot</text>
+<rect class="app" style="animation-delay:2.25s" x="379.0" y="299" width="200" height="52" rx="9"/><text x="391.0" y="332" font-size="19">🔐</text><text x="423.0" y="324" class="t" font-size="14">sealed-secrets</text><text x="423.0" y="340" class="s">ns: sealed-secrets</text>
+<rect class="app" style="animation-delay:2.7s" x="597.0" y="299" width="200" height="52" rx="9"/><text x="609.0" y="332" font-size="19">💾</text><text x="641.0" y="324" class="t" font-size="14">local-path-storage</text><text x="641.0" y="340" class="s">ns: local-path-storage</text>
+<rect class="box" x="300" y="388" width="200" height="54" rx="10"/><text x="314" y="422" font-size="21">☁️</text><text x="346" y="412" class="t">Cloudflare Tunnel</text><text x="346" y="429" class="s">no open ports</text>
+<rect class="box" x="600" y="388" width="170" height="54" rx="10"/><text x="614" y="422" font-size="21">🌍</text><text x="646" y="412" class="t">Internet</text><text x="646" y="429" class="s">virtudes.dev</text>
+<path class="ln" d="M190 80.0 L215 80.0"/><path class="flow" d="M190 80.0 L215 80.0"/>
+<circle r="5" fill="#58a6ff" filter="url(#glow)" opacity="0"><animateMotion dur="4s" begin="0.0s" repeatCount="indefinite" path="M190 80.0 L215 80.0" keyPoints="0;1;1" keyTimes="0;0.15;1" calcMode="linear"/><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.15;0.16;1" dur="4s" begin="0.0s" repeatCount="indefinite"/></circle>
+<path class="ln" d="M375 80.0 L400 80.0"/><path class="flow" d="M375 80.0 L400 80.0"/>
+<circle r="5" fill="#58a6ff" filter="url(#glow)" opacity="0"><animateMotion dur="4s" begin="0.6s" repeatCount="indefinite" path="M375 80.0 L400 80.0" keyPoints="0;1;1" keyTimes="0;0.15;1" calcMode="linear"/><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.15;0.16;1" dur="4s" begin="0.6s" repeatCount="indefinite"/></circle>
+<path class="ln" d="M560 80.0 L585 80.0"/><path class="flow" d="M560 80.0 L585 80.0"/>
+<circle r="5" fill="#58a6ff" filter="url(#glow)" opacity="0"><animateMotion dur="4s" begin="1.2s" repeatCount="indefinite" path="M560 80.0 L585 80.0" keyPoints="0;1;1" keyTimes="0;0.15;1" calcMode="linear"/><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.15;0.16;1" dur="4s" begin="1.2s" repeatCount="indefinite"/></circle>
+<path class="ln" d="M745 80.0 L770 80.0"/><path class="flow" d="M745 80.0 L770 80.0"/>
+<circle r="5" fill="#58a6ff" filter="url(#glow)" opacity="0"><animateMotion dur="4s" begin="1.7999999999999998s" repeatCount="indefinite" path="M745 80.0 L770 80.0" keyPoints="0;1;1" keyTimes="0;0.15;1" calcMode="linear"/><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.15;0.16;1" dur="4s" begin="1.7999999999999998s" repeatCount="indefinite"/></circle>
+<path class="ln" d="M850 110 L850 150 L480 150 L480 175"/><path class="flow" d="M850 110 L850 150 L480 150 L480 175"/>
+<circle r="5" fill="#58a6ff" filter="url(#glow)" opacity="0"><animateMotion dur="4s" begin="2.4s" repeatCount="indefinite" path="M850 110 L850 150 L480 150 L480 175" keyPoints="0;1;1" keyTimes="0;0.15;1" calcMode="linear"/><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.15;0.16;1" dur="4s" begin="2.4s" repeatCount="indefinite"/></circle>
+<path class="ln" d="M400 365 L400 388"/><path class="flow" d="M400 365 L400 388"/>
+<circle r="5" fill="#58a6ff" filter="url(#glow)" opacity="0"><animateMotion dur="4s" begin="3.0s" repeatCount="indefinite" path="M400 365 L400 388" keyPoints="0;1;1" keyTimes="0;0.15;1" calcMode="linear"/><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.15;0.16;1" dur="4s" begin="3.0s" repeatCount="indefinite"/></circle>
+<path class="ln" d="M500 415 L600 415"/><path class="flow" d="M500 415 L600 415"/>
+<circle r="5" fill="#58a6ff" filter="url(#glow)" opacity="0"><animateMotion dur="4s" begin="3.4s" repeatCount="indefinite" path="M500 415 L600 415" keyPoints="0;1;1" keyTimes="0;0.15;1" calcMode="linear"/><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.15;0.16;1" dur="4s" begin="3.4s" repeatCount="indefinite"/></circle>
+</svg>
